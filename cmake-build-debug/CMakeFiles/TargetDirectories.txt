@@ -1,0 +1,14 @@
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/lib/CMakeFiles/WeaponLibrary.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/main/CMakeFiles/WeaponApplication.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/main/CMakeFiles/edit_cache.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/main/CMakeFiles/rebuild_cache.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/gtest/CMakeFiles/gtest.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/gtest/CMakeFiles/edit_cache.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/gtest/CMakeFiles/rebuild_cache.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/maintest/CMakeFiles/WeaponsTest.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/maintest/CMakeFiles/edit_cache.dir
+C:/Users/portal/CLionProjects/Weapons/cmake-build-debug/maintest/CMakeFiles/rebuild_cache.dir
