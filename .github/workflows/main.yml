@@ -39,5 +39,5 @@ jobs:
           cmake ..
           make
           echo make complete
-          ./main/untitled5
+          ./main/WeaponApplication
           ./maintest/WeaponsTest
